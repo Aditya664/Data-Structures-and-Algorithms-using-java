@@ -19,14 +19,14 @@
     <img src="https://img.shields.io/badge/Made%20In-india-green?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-java-blue?style=flat-square">
 <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=FAANG-ready-dsa&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Data-Structures-and-Algorithms-using-java&theme=synthwave">
 </p>
 
 ### Description
 This repository consists of the code samples, assignments.
 
 ### Credits 
-<a href="https://github.com/Aditya664/FAANG-ready-dsa">Aditya664</a>
+<a href="https://github.com/Aditya664/Data-Structures-and-Algorithms-using-java">Aditya664</a>
 
 ### Find me on 
 <a href="mailto:adityadeshmukh7350@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-adityadeshmukh7350@gmail.com-blue?style=for-the-badge&logo=gmail"></a>

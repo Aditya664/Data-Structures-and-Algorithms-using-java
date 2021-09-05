@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/Aditya664/Data-Structures-and-Algorithms-using-java?style=for-the-badge&color=orange">
+     <img src="https://img.shields.io/github/stars/Aditya664/Data-Structures-and-Algorithms-using-java?style=for-the-badge&color=orange">
     <img src="https://img.shields.io/github/forks/Aditya664/Data-Structures-and-Algorithms-using-java?style=for-the-badge&color=purple">
     <img src="https://img.shields.io/github/license/Aditya664/Data-Structures-and-Algorithms-using-java?style=for-the-badge&color=blue">
     <img src="https://img.shields.io/github/issues/Aditya664/Data-Structures-and-Algorithms-using-java?style=for-the-badge&color=red">

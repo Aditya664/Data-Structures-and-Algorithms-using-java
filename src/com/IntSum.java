@@ -2,7 +2,7 @@ package com;
 
 import java.util.Scanner;
 
-public class Sum {
+public class IntSum {
     public static void main(String[] args)
     {
 //Sum of two number using int

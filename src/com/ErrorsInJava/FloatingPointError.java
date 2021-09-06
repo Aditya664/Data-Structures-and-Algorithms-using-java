@@ -1,4 +1,4 @@
-package com;
+package com.ErrorsInJava;
 
 import java.awt.desktop.ScreenSleepEvent;
 import java.util.Scanner;

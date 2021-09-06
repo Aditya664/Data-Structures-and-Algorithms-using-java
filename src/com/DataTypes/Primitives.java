@@ -1,6 +1,6 @@
     /*what is primitive?
     any datatype can not break ferther*/
-    package com;
+    package com.DataTypes;
 
     public class Primitives {
         public static void main(String[] args)

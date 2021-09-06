@@ -6,7 +6,7 @@
 // 6.java program is also the java class.
 
 
-package com;
+package com.Print;
 
 public class Print {
 

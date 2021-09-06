@@ -1,4 +1,4 @@
-package com;
+package com.sumOfTwoNo;
 
 import java.util.Scanner;
 

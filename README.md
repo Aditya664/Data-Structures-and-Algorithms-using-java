@@ -23,7 +23,7 @@
 
 ### Description
 This repository consists of the code samples, assignments
-and Questions are included in comments in the code.
+and Questions are included in comments of the code.
 
 ### Credits 
 <a href="https://github.com/Aditya664/Data-Structures-and-Algorithms-using-java">Aditya664</a>

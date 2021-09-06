@@ -25,6 +25,9 @@ public class Variables {
         int i3 = s;
         char c2 = 100;
         System.out.println(c2);
+        double d2 = i3;
+        d2 = l;
+
 
     }
 }

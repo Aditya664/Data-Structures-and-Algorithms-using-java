@@ -1,6 +1,6 @@
     /*what is primitive?
     any datatype can not break ferther*/
-    package com.DataTypes.Primitive;
+    package com.BesicsOfJava.DataTypes.Primitive;
 
     public class Primitives {
         public static void main(String[] args)

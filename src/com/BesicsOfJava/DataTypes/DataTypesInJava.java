@@ -1,6 +1,4 @@
-package com.DataTypes;
-
-import java.util.Enumeration;
+package com.BesicsOfJava.DataTypes;
 
 public class DataTypesInJava {
     public static void main(String[] args)

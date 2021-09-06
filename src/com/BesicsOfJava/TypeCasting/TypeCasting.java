@@ -1,4 +1,4 @@
-package com;
+package com.BesicsOfJava.TypeCasting;
 
 public class TypeCasting {
     public static void main(String[] args)

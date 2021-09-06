@@ -1,6 +1,5 @@
-package com.ErrorsInJava;
+package com.BesicsOfJava.ErrorsInJava;
 
-import java.awt.desktop.ScreenSleepEvent;
 import java.util.Scanner;
 
 public class FloatingPointError {

@@ -1,4 +1,4 @@
-package com.NumberSystem;
+package com.BesicsOfJava.NumberSystem;
 
 public class HowToWriteInJava {
     public static void main(String[] args)

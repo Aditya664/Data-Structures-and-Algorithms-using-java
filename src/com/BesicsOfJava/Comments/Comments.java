@@ -1,4 +1,4 @@
-package com.Comments;
+package com.BesicsOfJava.Comments;
 
 public class Comments {
     public static void main(String[] args)

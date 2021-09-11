@@ -23,6 +23,15 @@ public class Arrays {
          System.out.println(arr3[0]);
          boolean[] arr4 = new boolean[10];
          System.out.println(arr4[0]);
+//         System.out.println(arr4[10]);
+
+         //array litteral
+         int[] arr5 = {3,2,1};
+         int[][] matrix = {
+                 {1,2,3},
+                 {4,5,6}
+         };
+         System.out.println(matrix[0][2]);
 
      }
 }

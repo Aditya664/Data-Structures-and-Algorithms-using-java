@@ -34,11 +34,12 @@ public class TypeCasting {
 
         int a = 257;
         byte b = (byte) (a);
-        System.out.println(b);
+        System.out.println(b); //257 % 256 = 1
+        //260 % 256 = 4
       /*  maximium range of the byte is 257
         after running this program we get 1 in the output
             because its give  the reminder because max value is 257 hence byte
-        show extra velue form the input for eq.if i give 260 it give me output 3.*/
+        show extra velue form the input for eq.if i give 260 it give me output 4.*/
 
 
 

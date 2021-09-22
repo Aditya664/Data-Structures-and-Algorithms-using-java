@@ -46,6 +46,10 @@ public class loops {
 
         }while(condition);*/
 
+
+       /* why we use do while loop?
+            in the do while loop the loop going to executes atleast one.
+            */
         int n = 1;
         do{
             System.out.println(n);

@@ -18,6 +18,7 @@ public class if_else {
         if(sallary > 10000)
         {
             sallary = sallary + 2000;
+            sallary += sallary;
         }
         else {
             sallary = sallary + 1000;

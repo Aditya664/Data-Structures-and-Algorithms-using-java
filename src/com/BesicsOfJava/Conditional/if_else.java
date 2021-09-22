@@ -24,7 +24,7 @@ public class if_else {
         }
         System.out.println(sallary);
 
-        //multiple comment
+        //multiple if else
         int age = 20;
         if(age == 20)
         {

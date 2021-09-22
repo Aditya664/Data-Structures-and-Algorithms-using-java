@@ -14,6 +14,7 @@ public class if_else {
         }*/
 
         int sallary = 25000;
+        //Single if condition
         if(sallary > 10000)
         {
             sallary = sallary + 2000;
@@ -22,5 +23,19 @@ public class if_else {
             sallary = sallary + 1000;
         }
         System.out.println(sallary);
+
+        //multiple comment
+        int age = 20;
+        if(age == 20)
+        {
+            System.out.println("You are young!");
+        }
+        else if(age < 20)
+        {
+            System.out.println("You are child!");
+        }
+        else{
+            System.out.println("You are old!");
+        }
     }
 }

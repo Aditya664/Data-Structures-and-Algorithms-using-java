@@ -12,5 +12,14 @@ public class Check_The_Case {
             charAt means give me the index of the string its array type*/
         char ch = in.next().trim().charAt(0);
 
+        if(ch > 'a' && ch <= 'z')
+        {
+            System.out.println("Lowercase");
+        }
+        else{
+            System.out.println("Uppercase");
+        }
+
+        System.out.println(ch);
     }
 }

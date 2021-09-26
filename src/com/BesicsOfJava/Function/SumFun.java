@@ -9,6 +9,7 @@ public class SumFun {
     }
     static void sum(){
         //This is sum function
+        //any channges makes in this function its reflected to all calls.
             Scanner in = new Scanner(System.in);
             System.out.println("Enter first number: ");
             int n1 = in.nextInt();

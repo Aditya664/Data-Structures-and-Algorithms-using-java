@@ -2,7 +2,7 @@ package com.BesicsOfJava.Function;
 
 import java.util.Scanner;
 
-public class Function {
+public class ReturnInt {
    /* What is function?
     a function is a piece of code which performs the
     operation and sometimes returns a value.*/
